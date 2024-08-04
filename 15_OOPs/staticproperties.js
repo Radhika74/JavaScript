@@ -1,3 +1,4 @@
+//function Based 
 class User{
     constructor(username)
     {
